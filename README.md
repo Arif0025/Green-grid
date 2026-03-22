@@ -54,7 +54,3 @@ Type these into the app's command input to interact with the grid:
 - `toggle`: Same as pressing `O`.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
